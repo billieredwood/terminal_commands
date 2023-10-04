@@ -30,4 +30,5 @@ Written commands allow actions to be performed within directories more efficient
 | To delete a directory: | **rm -r** | **r**ecursive |
 | To copy a file: | **cp**| *copy* |
 
+***More Information***
 BNTA's Day 2 Course Notes [Using Terminal] (https://github.com/BrightNetworkTechAcademy/c12_coursenotes/blob/main/week_01/day_2/using_terminal/using_terminal.md) 
