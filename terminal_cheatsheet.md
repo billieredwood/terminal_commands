@@ -1,6 +1,6 @@
 # Terminal Commands Cheat Sheet
 
-## **Terminal Commands Cheat Sheet**
+## **Terminal Commands Cheat Sheet: Summary**
 
 Written commands allow actions to be performed within directories more efficiently and powerfully than by using General Operating Systems *i.e.* **GUIs**. 
 
