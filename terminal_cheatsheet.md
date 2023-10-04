@@ -28,6 +28,6 @@ Written commands allow actions to be performed within directories more efficient
 | To determine the file type: | **.** | *e.g.* touch file_name.pdf; .docx; .md |
 | To delete a file: | rm | *i.e.* remove |
 | To delete a directory: | **rm -r** | **r**ecursive |
-| To delete copy a file: | **cp**| *copy* |
+| To copy a file: | **cp**| *copy* |
 
 BNTA's Day 2 Course Notes [Using Terminal] (https://github.com/BrightNetworkTechAcademy/c12_coursenotes/blob/main/week_01/day_2/using_terminal/using_terminal.md) 
