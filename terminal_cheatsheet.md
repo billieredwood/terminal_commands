@@ -1,6 +1,6 @@
 # Terminal Commands Cheat Sheet
 
-## **Terminal Commands Cheat Sheet: Summary**
+## ****Terminal Commands Cheat Sheet: Summary****
 
 Written commands allow actions to be performed within directories more efficiently and powerfully than by using General Operating Systems *i.e.* **GUIs**. 
 
@@ -11,7 +11,9 @@ Written commands allow actions to be performed within directories more efficient
 - . symbols are used before the stated file type
 - In Terminal, Commands take effect once the keyboard's Enter key is pressed after a string of commands is typed into the command line.
 
+
 ****Table of Commands****
+
 *See list of navigation commands below:*
 | **Action:** | **Command:** |	**Acronym for:** |
 |-------------|-------------|-------------|
